@@ -1,8 +1,6 @@
 # Clay-Phoenix-Ethermine-Autostarter
 Phoenix,Claymore Devfee no Hash Stop ,Autostart the Miner and Go
-Common problem with Phoenixminer and Claymore Miner is when DEVFEE comes by and the third or fourth time does not catch Shares gives these miners warning and stops the miner, to remedy this is this startbat watchdog and this ensures that the miner starts again or if necessary restart the whole miner rig, you place the contents of the start debate of the miner in this watchdog bat, and works great, you can download it at: https://github.com/digitalpara/Clay-Phoenix-Ethermine-Autostarter
-
-Download: https://mirrorace.com/m/1qlvn
+Common problem with Phoenixminer and Claymore Miner is when DEVFEE comes by and the third or fourth time does not catch Shares gives these miners warning and stops the miner, to remedy this is this startbat watchdog and this ensures that the miner starts again or if necessary restart the whole miner rig, you place the contents of the start debate of the miner in this watchdog bat, and works great.
 
 Phoenixminer,Claymoreminer,Ethereum miner WatchDog by DiGiTaLPaRa (SiMSeK-GitHub)
 
